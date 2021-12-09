@@ -1,4 +1,5 @@
-datos: [
+{
+        datos: [
         {
           nombre_libro: "firelight",
           link: "fire",
@@ -11,4 +12,9 @@ datos: [
           url_imagen: "amor_inmortal.jpeg",
           sinopsis_libro: "una inmortal se cansa de vivi y se va a un centro de rehabilitacion para inmortales donde se enamora de un vikingo que tambien es inmortal"
         }
-      ]
+      ],
+        "profile": {
+          "name": "typicode"
+        }
+        
+}
