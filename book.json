@@ -1,0 +1,14 @@
+datos: [
+        {
+          nombre_libro: "firelight",
+          link: "fire",
+          url_imagen: "firelight.jpeg",
+          sinopsis_libro: "una chica es un dragon y se enamora de un cazador de dragones "
+        },
+        {
+          nombre_libro: "amor inmortal",
+          link: "inmortal",
+          url_imagen: "amor_inmortal.jpeg",
+          sinopsis_libro: "una inmortal se cansa de vivi y se va a un centro de rehabilitacion para inmortales donde se enamora de un vikingo que tambien es inmortal"
+        }
+      ]
